@@ -12,7 +12,11 @@
   - Front-End : Thymeleaf, BootStrap 4.3.1
 
 ### 📐 아키텍처
-![image](https://user-images.githubusercontent.com/48192141/182427107-df0f8731-92a2-4bf2-8772-758173e8fdbf.png)
+![스크린샷 2022-08-23 오후 10 54 27](https://user-images.githubusercontent.com/48192141/186176634-59146702-5f8d-4bec-9fd2-d527d493bc17.png)
+
+### 👀 메인화면
+![스크린샷 2022-08-23 오후 10 52 08](https://user-images.githubusercontent.com/48192141/186176177-5184f8e2-53b7-4f5f-8069-98b5776e07a6.png)
+
 
 ### 📝 공부기록
 https://conscious-foe-e61.notion.site/JPA-60cc2a97256b4643a8c669ffcd126060
