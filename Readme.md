@@ -1,4 +1,4 @@
-## 실전! 스프링 부트와 JPA 활용1 프로젝트 - JPA SHOP
+## 실전! 스프링 부트와 JPA 활용 프로젝트 - JPA SHOP
 
 ### 👨‍🔧 개발환경 & 기술스택
 - 개발환경
@@ -16,7 +16,6 @@
 
 ### 👀 메인화면
 ![스크린샷 2022-08-23 오후 10 52 08](https://user-images.githubusercontent.com/48192141/186176177-5184f8e2-53b7-4f5f-8069-98b5776e07a6.png)
-
 
 ### 📝 공부기록
 https://conscious-foe-e61.notion.site/JPA-60cc2a97256b4643a8c669ffcd126060
