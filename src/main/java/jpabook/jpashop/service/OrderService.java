@@ -68,7 +68,7 @@ public class OrderService {
     // 검색
     public List<Order> findOrders(OrderSearch orderSearch){
         // 단순히 조회하기 위한 기능(단순위임)이면 controller -> repository 접근 해도 갠춘
-        return orderRepository.findAllByCriteria(orderSearch);
+        return orderRepository.findAll(orderSearch);
     }
 
 }
